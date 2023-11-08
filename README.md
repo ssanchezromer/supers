@@ -30,18 +30,12 @@ Lucia Blanc Velázquez
 
 ## Contenido del repositorio:
 
-**Readme.md: Expone de forma breve el contenido de la práctica**
-
-**src/*.*: Scripts con el código del programa**
-
-**csv/products.csv: Incluye el conjunto de datos resultante y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.**
-
-**app/*.*: Scripts con el código para inicializar la app de Flask.**
-
-**pdf/ProductsSupers.pdf: Documento pdf con el contenido explicado de la práctica**
-
-**video/*.*: Video de presentación de la práctica.**
-
+- **Readme.md: Expone de forma breve el contenido de la práctica**
+- **src/*.*: Scripts con el código del programa**
+- **csv/products.csv: Incluye el conjunto de datos resultante y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.**
+- **app/*.*: Scripts con el código para inicializar la app de Flask.**
+- **pdf/ProductsSupers.pdf: Documento pdf con el contenido explicado de la práctica**
+- **video/*.*: Video de presentación de la práctica.**
 
 
 
@@ -50,6 +44,7 @@ El Dataset generado contiene el título **Comparación de los productos de Merca
 
 [![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)](https://zenodo.org/records/10086087)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10086087.svg)](https://doi.org/10.5281/zenodo.10086087)
 
 ## Pasos a seguir para la creación del entorno y la inicialización del scraping:
 
