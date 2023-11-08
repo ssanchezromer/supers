@@ -7,7 +7,7 @@ Este proyecto es una práctica de la asignatura "Tipología y ciclo de vida de l
 
 Hemos creado un raspador web que extrae los precios de los productos de los principales supermercados en España y los compara. Finalmente, los resultados se guardan en un archivo CSV y hemos creado una aplicación Flask para visualizar los resultados.
 
-### Contexto
+## Contexto
 En esta actividad se ha llevado a cabo la recopilación de datos con el propósito de comparar los precios de los productos en tres supermercados diferentes: Mercadona, Caprabo y Bonpreu.
 
 Sitios web (enlaces):
@@ -17,12 +17,12 @@ Bonpreu: https://www.bonpreuesclat.cat/es/home
 
 Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios de diferentes productos, como puede ser el aceite de oliva, un hecho que ha impactado en la economía de los consumidores, y por consiguiente ha generado un creciente interés de identificar las opciones de compra más económicas.
 
-### Grupo de trabajo:
+## Grupo de trabajo:
 
 Sergi Sánchez Romer
 Lucia Blanc Velázquez
 
-### Contenido del repositorio:
+## Contenido del repositorio:
 
 **Readme.md: Expone de forma breve el contenido de la práctica**
 
@@ -36,12 +36,12 @@ Lucia Blanc Velázquez
 
 **video/*.*: Video de presentación de la práctica.**
 
-### DOI del dataset generado
+## DOI del dataset generado
 El Dataset generado contiene el título **Comparación de los productos de Mercadona, Caprabo y Bonpreu** y se encuentra publicado en Zenodo.
 
 ![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)
 
-### Pasos a seguir para la creación del entorno y la inicialización del scraping:
+## Pasos a seguir para la creación del entorno y la inicialización del scraping:
 
 **1. Crear entorno:**
 
