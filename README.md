@@ -1,4 +1,4 @@
-![zenodo 10086087](https://github.com/ssanchezromer/supers/assets/148953141/ced0a9ec-c9d4-4fe8-9248-0d86906a3416)![Header](/app/static/imagen_cabecera.png)
+![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)![zenodo 10086087](https://github.com/ssanchezromer/supers/assets/148953141/ced0a9ec-c9d4-4fe8-9248-0d86906a3416)![Header](/app/static/imagen_cabecera.png)
 
 # Tipología y ciclo de vida de los datos - UOC
 ## Webscraping practice 1 - Supermarket price comparation
@@ -26,11 +26,17 @@ Lucia Blanc Velázquez
 ### Contenido del repositorio:
 
 **Readme.md: Expone de forma breve el contenido de la práctica**
+
 **src/*.*: Scripts con el código del programa**
+
 **csv/products.csv: Incluye el conjunto de datos resultante y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.**
+
 **app/*.*: Scripts con el código para inicializar la app de Flask.**
+
 **pdf/ProductsSupers.pdf: Documento pdf con el contenido explicado de la práctica**
+
 **video/*.*: Video de presentación de la práctica.**
+
 
 
 ### DOI del dataset generado
@@ -70,7 +76,7 @@ El Dataset generado contiene el título **Comparación de los productos de Merca
                 10.5281/zenodo.10086087
             </text>
         </g>
-    </svg>g zenodo.10086087.svg…]()
+    </svg>g zenodo.10086087.png.svg…]()
 
 
 ### Pasos a seguir para la creación del entorno y inicialización del scraping: 
