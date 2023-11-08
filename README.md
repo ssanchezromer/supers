@@ -1,5 +1,5 @@
 
-(https://github.com/ssanchezromer/supers/assets/148953141/ced0a9ec-c9d4-4fe8-9248-0d86906a3416)![Header](/app/static/imagen_cabecera.png)
+![imagen_cabecera](https://github.com/ssanchezromer/supers/assets/148953141/41c8b979-8845-4bb0-9770-c1bb3a268a37)
 
 # Tipología y ciclo de vida de los datos - UOC
 ## Webscraping practice 1 - Supermarket price comparation
@@ -13,10 +13,14 @@ En esta actividad se ha llevado a cabo la recopilación de datos con el propósi
 
 Sitios web (enlaces):
 Mercadona : https://tienda.mercadona.es/ 
+
 Caprabo: https://www.capraboacasa.com/es 
+
 Bonpreu: https://www.bonpreuesclat.cat/es/home 
 
+
 Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios de diferentes productos, como puede ser el aceite de oliva, un hecho que ha impactado en la economía de los consumidores, y por consiguiente ha generado un creciente interés de identificar las opciones de compra más económicas. 
+
 
 
 
@@ -49,7 +53,7 @@ Lucia Blanc Velázquez
 ### DOI del dataset generado
 El Dataset generado contiene el título **Comparación de los productos de Mercadona, Caprabo y Bonpreu** y se encuentra publicado en Zenodo. 
 
-![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)!
+![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)
 
 
 
