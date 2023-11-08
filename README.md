@@ -48,7 +48,8 @@ Lucia Blanc Velázquez
 ## DOI del dataset generado
 El Dataset generado contiene el título **Comparación de los productos de Mercadona, Caprabo y Bonpreu** y se encuentra publicado en Zenodo.
 
-![zenodo 10086087 png](https://zenodo.org/records/10086087)
+[![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)](https://zenodo.org/records/10086087)
+
 
 ## Pasos a seguir para la creación del entorno y la inicialización del scraping:
 
