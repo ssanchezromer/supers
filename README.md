@@ -24,20 +24,17 @@ Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios d
 ## Grupo de trabajo:
 
 Sergi Sánchez Romer
+
 Lucia Blanc Velázquez
+
 
 ## Contenido del repositorio:
 
 **Readme.md: Expone de forma breve el contenido de la práctica**
-
 **src/*.*: Scripts con el código del programa**
-
 **csv/products.csv: Incluye el conjunto de datos resultante y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.**
-
 **app/*.*: Scripts con el código para inicializar la app de Flask.**
-
 **pdf/ProductsSupers.pdf: Documento pdf con el contenido explicado de la práctica**
-
 **video/*.*: Video de presentación de la práctica.**
 
 ## DOI del dataset generado
