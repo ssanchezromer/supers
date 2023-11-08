@@ -1,4 +1,5 @@
-![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)![zenodo 10086087](https://github.com/ssanchezromer/supers/assets/148953141/ced0a9ec-c9d4-4fe8-9248-0d86906a3416)![Header](/app/static/imagen_cabecera.png)
+
+(https://github.com/ssanchezromer/supers/assets/148953141/ced0a9ec-c9d4-4fe8-9248-0d86906a3416)![Header](/app/static/imagen_cabecera.png)
 
 # Tipología y ciclo de vida de los datos - UOC
 ## Webscraping practice 1 - Supermarket price comparation
@@ -42,41 +43,7 @@ Lucia Blanc Velázquez
 ### DOI del dataset generado
 El Dataset generado contiene el título **Comparación de los productos de Mercadona, Caprabo y Bonpreu** y se encuentra publicado en Zenodo. 
 
-![Uploadin<svg xmlns="http://www.w3.org/2000/svg"
-     width="190.859375" height="20">
-        <linearGradient id="b" x2="0" y2="100%">
-            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-            <stop offset="1" stop-opacity=".1"/>
-        </linearGradient>
-        <mask id="a" width="190.859375" height="20">
-            <rect width="190.859375" height="20" rx="3"
-            fill="#fff"/>
-        </mask>
-        <g mask="url(#a)">
-            <path fill="#555" d="M0 0h31.375v20H0z" />
-            <path fill="#007ec6"
-            d="M31.375 0h159.484375v20H31.375z"
-            />
-            <path fill="url(#b)" d="M0 0h190.859375v20H0z" />
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,
-        Verdana,Geneva,sans-serif" font-size="11">
-            <text x="16.1875" y="15" fill="#010101"
-            fill-opacity=".3">
-                DOI
-            </text>
-            <text x="16.1875" y="14">
-                DOI
-            </text>
-            <text x="110.6171875"
-            y="15" fill="#010101" fill-opacity=".3">
-                10.5281/zenodo.10086087
-            </text>
-            <text x="110.6171875" y="14">
-                10.5281/zenodo.10086087
-            </text>
-        </g>
-    </svg>g zenodo.10086087.png.svg…]()
+![zenodo 10086087 png](https://github.com/ssanchezromer/supers/assets/148953141/56f8f9f2-c2c9-4e00-b5ab-aa44bda9af12)![zenodo 10086087]
 
 
 ### Pasos a seguir para la creación del entorno y inicialización del scraping: 
