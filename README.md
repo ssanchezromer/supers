@@ -1,7 +1,7 @@
 ![imagen_cabecera](https://github.com/ssanchezromer/supers/assets/148953141/41c8b979-8845-4bb0-9770-c1bb3a268a37)
 
 # Tipología y ciclo de vida de los datos - UOC
-## Webscraping practice 1 - Supermarket price comparison
+## Webscraping práctica 1 - Comparación precios supermercados
 
 Este proyecto es una práctica de la asignatura "Tipología y ciclo de vida de los datos" del Máster en Ciencia de Datos de la UOC.
 
