@@ -23,7 +23,7 @@ Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios d
 
 ## Grupo de trabajo:
 
-Sergi Sánchez Romer
+Sergi Sánchez Romero
 
 Lucia Blanc Velázquez
 
