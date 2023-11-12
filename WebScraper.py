@@ -196,6 +196,22 @@ class WebScraper:
             actual_height = self.get_actual_height()
         return actual_height
 
+    def scroll_down_page(self):
+        """
+        Scroll down page
+        """
+        # Get scroll height
+        total_height = self.driver.execute_script("return document.body.scrollHeight")
+        new_total_height = 0
+        # go down page
+        while total_height != new_total_height:
+            if new_total_height > 0:
+                total_height = new_total_height
+            self.driver.execute_script(f"window.scrollTo(0, {total_height});")
+            time.sleep(randrange(1, 3))
+            new_total_height = self.driver.execute_script("return document.body.scrollHeight")
+            # print(f"total_height: {total_height} - new_total_height: {new_total_height}")
+
     def close_browser(self):
         self.driver.quit()
 

@@ -207,7 +207,9 @@ class CapraboScraper(WebScraper):
                 url = l3_cat_link_href
                 # get page source
                 self.content_html = self.get_page_source(url)
-                # parse the html
+                # go down page to control scroll infinite
+                self.scroll_down_page()
+                # one the page is fully loaded parse the html
                 parsed_html = BeautifulSoup(self.content_html, 'html.parser')
                 # save parsed_html to file (just to check)
                 # self.save_html(parsed_html.prettify())
