@@ -213,13 +213,28 @@ class WebScraper:
             # print(f"total_height: {total_height} - new_total_height: {new_total_height}")
 
     def close_browser(self):
+        """
+        Close browser
+        :return: none
+        """
         self.driver.quit()
 
     def handle_error(self, error_message):
+        """
+        Handle error
+        :param error_message: error message
+        :return: none
+        """
         self.print_message(error_message, "ERROR")
 
     @staticmethod
     def print_message(message, type_message):
+        """
+        Print message
+        :param message: message
+        :param type_message: type message
+        :return: none
+        """
         # Fore: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET.
         if type_message == "ERROR":
             print(Fore.RED + message)
@@ -238,7 +253,7 @@ class WebScraper:
         Calculate price by unit
         :param quantity: quantity
         :param product_price: product price
-        :return: price by unit
+        :return: list with price by unit and unit
         """
         quantity = quantity.strip().replace(',', '.')
         quantity_num, quantity_unit = quantity.split()
@@ -263,6 +278,7 @@ class WebScraper:
     def merge_csvs(self, products_data_all):
         """
         Merge csv files into one
+        :param products_data_all: product data
         :return: none
         """
         # merge if not exists products.csv file
