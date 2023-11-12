@@ -12,11 +12,11 @@ En esta actividad se ha llevado a cabo la recopilación de datos con el propósi
 
 Sitios web (enlaces):
 
-Mercadona: https://tienda.mercadona.es/
+Mercadona: <a href="https://tienda.mercadona.es/" target="_blank">https://tienda.mercadona.es/</a>
 
-Caprabo: https://www.capraboacasa.com/es
+Caprabo: <a href="https://www.capraboacasa.com/es" target="_blank">https://www.capraboacasa.com/es</a>
 
-Bonpreu: https://www.bonpreuesclat.cat/es/home
+Bonpreu: <a href="https://www.compraonline.bonpreuesclat.cat/products" target="_blank">https://www.compraonline.bonpreuesclat.cat/products</a>
 
 
 Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios de diferentes productos, como puede ser el aceite de oliva, un hecho que ha impactado en la economía de los consumidores, y por consiguiente ha generado un creciente interés de identificar las opciones de compra más económicas.
