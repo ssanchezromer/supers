@@ -32,7 +32,7 @@ Lucia Blanc Velázquez
 - **src/.:** Scripts con el código del programa.
 - **csv/.:** Carpeta que incluye el conjunto de datos resultante (products.csv) y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.
 - **app/.:** Scripts con el código para inicializar la app de Flask.
-- **pdf/ProductsSupers.pdf:** Documento pdf con el contenido explicado de la práctica.
+- **pdf/comparacionPrecioSupers.pdf:** Documento pdf con el contenido explicado de la práctica.
 - **video/.:** Video de presentación de la práctica.
 
 
