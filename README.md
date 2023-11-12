@@ -11,13 +11,11 @@ Hemos creado un raspador web que extrae los precios de los productos de los prin
 En esta actividad se ha llevado a cabo la recopilación de datos con el propósito de comparar los precios de los productos en tres supermercados diferentes: Mercadona, Caprabo y Bonpreu.
 
 Sitios web (enlaces):
-
-Mercadona: <a href="https://tienda.mercadona.es/" target="_blank">https://tienda.mercadona.es/</a>
-
-Caprabo: <a href="https://www.capraboacasa.com/es" target="_blank">https://www.capraboacasa.com/es</a>
-
-Bonpreu: <a href="https://www.compraonline.bonpreuesclat.cat/products" target="_blank">https://www.compraonline.bonpreuesclat.cat/products</a>
-
+<ul>
+<li><strong>Mercadona:</strong>&nbsp;&nbsp;<a href="https://tienda.mercadona.es/" target="_blank">https://tienda.mercadona.es/</a></li>
+<li><strong>Caprabo:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.capraboacasa.com/es" target="_blank">https://www.capraboacasa.com/es</a></li>
+<li><strong>Bonpreu:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.compraonline.bonpreuesclat.cat/products" target="_blank">https://www.compraonline.bonpreuesclat.cat/products</a></li>
+</ul>
 
 Esta iniciativa se ha desarrollado en respuesta a la notable subida de precios de diferentes productos, como puede ser el aceite de oliva, un hecho que ha impactado en la economía de los consumidores, y por consiguiente ha generado un creciente interés de identificar las opciones de compra más económicas.
 
