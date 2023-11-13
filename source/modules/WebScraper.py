@@ -43,11 +43,6 @@ class WebScraper:
         # chrome_options.add_argument("--disable-notifications")
         # init driver
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-        # get headers sended by selenium
-        # self.check_headers(lib="selenium")
-        # get headers sended by requests
-        # self.check_headers(lib="requests")
-        # self.driver = webdriver.Chrome(self.chrome_driver_path)
         # init colorama
         init(autoreset=True)
 
@@ -188,8 +183,7 @@ class WebScraper:
                 products_data_csv.append(row)
         return products_data_csv
 
-    @staticmethod
-    def get_json(url):
+    def get_json(self, url):
         """
         Get json file from url
         :param url: url string
