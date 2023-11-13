@@ -46,6 +46,8 @@ El Dataset generado contiene el título **Comparación de los productos de Merca
 
 ## Pasos a seguir para la creación del entorno y la inicialización del scraping:
 
+Una vez descargado el código de la carpeta **source** realizaremos los siguientes pasos para poder ejecutar la aplicación:
+
 **1. Crear entorno:**
 
 > python -m venv env_name
