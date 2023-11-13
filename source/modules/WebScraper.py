@@ -330,7 +330,7 @@ class WebScraper:
         :return: none
         """
         # merge if not exists products.csv file
-        if not os.path.exists(os.path.join(os.getcwd(), "csv", "products.csv")):
+        if not os.path.exists(os.path.join(os.getcwd(), "../csv", "products.csv")):
             # save into csv file (csv/products.csv)
             self.save_all_products(products_data_all)
             self.print_message(f"\nTOTAL PRODUCTS MERGED: {len(products_data_all)}", "SUCCESS")
@@ -378,5 +378,5 @@ class WebScraper:
         :param content_html: html content
         :return: none
         """
-        with open("lectura.html", "w", encoding="utf-8") as file:
+        with open("../lectura.html", "w", encoding="utf-8") as file:
             file.write(content_html)

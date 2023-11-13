@@ -1,7 +1,7 @@
 import time
 
 from bs4 import BeautifulSoup
-from WebScraper import WebScraper
+from modules.WebScraper import WebScraper
 from urllib.parse import urlparse, parse_qs
 import re
 import os

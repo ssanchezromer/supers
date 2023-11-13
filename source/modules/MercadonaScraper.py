@@ -1,6 +1,6 @@
 import csv
 import os
-from WebScraper import WebScraper
+from modules.WebScraper import WebScraper
 
 
 class MercadonaScraper(WebScraper):

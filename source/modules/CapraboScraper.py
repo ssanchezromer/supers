@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from WebScraper import WebScraper
+from modules.WebScraper import WebScraper
 import re
 import os
 import csv
@@ -311,7 +311,7 @@ class CapraboScraper(WebScraper):
         :param content_html: html content
         :return: none
         """
-        with open("lectura.html", "w", encoding="utf-8") as file:
+        with open("../lectura.html", "w", encoding="utf-8") as file:
             file.write(content_html)
 
     @staticmethod
