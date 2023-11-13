@@ -29,9 +29,11 @@ Lucia Blanc Velázquez
 ## Contenido del repositorio:
 
 - **Readme.md:** Expone de forma breve el contenido de la práctica.
-- **source/.:** Scripts con el código del programa.
-- **requirements.txt:** Archivo con las librerías necesarias para el entorno de la práctica.
-- **dataset/.:** Carpeta que incluye el conjunto de datos resultante (products.csv) y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.
+- **source/.:** Carpeta con el código del programa principal (**main.py**) y el de la aplicación Flask (**run.py**). Además incluye:
+  - **app/.:** Carpeta con el código para inicializar la app de Flask.
+  - **csv/.:** Carpeta que incluye el conjunto de datos resultante (products.csv) y también en cada carpeta del supermercado se incluye el csv referente a cada uno de los sitios webs scrapeados.
+  - **modules/.:**: Carpeta con las librerías necesarias
+  - **requirements.txt:** Archivo con las librerías necesarias para el entorno de la práctica.
 - **pdf/comparacionPrecioSupers.pdf:** Documento pdf con el contenido explicado de la práctica.
 - **video/.:** Video de presentación de la práctica.
   
