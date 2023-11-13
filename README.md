@@ -50,17 +50,17 @@ Una vez descargado el código de la carpeta **source** realizaremos los siguient
 
 **1. Crear entorno:**
 
-> python -m venv env_name
+> python -m venv *env_name*
 
 **2. Activar entorno:**
 
   Windows:
 
-> env_name\Scripts\activate
+> *env_name*\Scripts\activate
 
   MacOS & Linux:
 
-> env_name/bin/activate
+> *env_name*/bin/activate
 
 **3. Instalación de librerías:**
 
