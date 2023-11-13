@@ -75,3 +75,4 @@ Una vez descargado el código de la carpeta **source** realizaremos los siguient
 ![final_scraping](https://github.com/ssanchezromer/supers/assets/122234525/c6b676cd-a368-4f27-9c19-dab9ecf26416)
 
 
+![flask](https://github.com/ssanchezromer/supers/assets/122234525/f83ba32e-6f6f-4b25-a624-2b22cb19d49b)
