@@ -70,3 +70,8 @@ Una vez descargado el código de la carpeta **source** realizaremos los siguient
 **4. Ejecución del programa**
 
 > python main.py
+
+
+![final_scraping](https://github.com/ssanchezromer/supers/assets/122234525/c6b676cd-a368-4f27-9c19-dab9ecf26416)
+
+
