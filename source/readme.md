@@ -8,5 +8,4 @@ Folders:
 Files:
 - **main.py:** Main program
 - **run.py:** Flask program
-- **README.md:** README file
-- **LICENSE.txt:** : License file
+- **README.md:** This README file
