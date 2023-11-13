@@ -8,4 +8,4 @@ Folders:
 Files:
 - **main.py:** Main program
 - **run.py:** Flask program
-- **README.md:** This README file
+- **readme.md:** This README file
