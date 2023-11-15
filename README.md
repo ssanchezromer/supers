@@ -1,4 +1,4 @@
-![imagen_cabecera](https://github.com/ssanchezromer/supers/assets/148953141/41c8b979-8845-4bb0-9770-c1bb3a268a37)
+![portada](https://github.com/ssanchezromer/supers/assets/122234525/733c8c9a-ae1b-4a96-8dc3-00fc427a6b49)
 
 # Tipología y ciclo de vida de los datos - UOC
 ## Webscraping práctica 1 - Comparación precios supermercados
@@ -71,8 +71,8 @@ Una vez descargado el código de la carpeta **source** realizaremos los siguient
 
 > python main.py
 
+![final_scraping](https://github.com/ssanchezromer/supers/assets/122234525/40c6681f-5853-467b-91d7-b98e0dbb9099)
 
-![final_scraping](https://github.com/ssanchezromer/supers/assets/122234525/c6b676cd-a368-4f27-9c19-dab9ecf26416)
 
+![flask](https://github.com/ssanchezromer/supers/assets/122234525/63138454-be59-43ef-a938-3da1735e7176)
 
-![flask](https://github.com/ssanchezromer/supers/assets/122234525/f83ba32e-6f6f-4b25-a624-2b22cb19d49b)
