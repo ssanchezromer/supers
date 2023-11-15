@@ -11,4 +11,4 @@ Files:
 - **readme.md:** This README file
 
 
-![esquema_pycharmv2](https://github.com/ssanchezromer/supers/assets/122234525/41211859-f5cc-4287-9fcd-b32e6ffb1f13)
+![esquema_pycharmv2](https://github.com/ssanchezromer/supers/assets/122234525/26298efd-b236-4c8a-bb92-7b117dfe2bd0)
